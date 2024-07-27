@@ -15,7 +15,6 @@ return (
         <Route exact path='/category/:categoryId' element={<ItemListContainer/>}/>
         <Route exact path='/item/:id' element={<ItemDetailContainer />}/>
       </Routes>
-      <Footer />
     </BrowserRouter>
   )
 }
