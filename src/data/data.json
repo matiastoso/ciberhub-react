@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "title": "Motorola Moto G13 128 GB Rosa suave 4 GB RAM",
+      "description": "Fotografía profesional en tu bolsillo. Descubrí infinitas posibilidades para tus fotos con las 3 cámaras principales de tu equipo. Poné a prueba tu creatividad y jugá con la iluminación, diferentes planos y efectos para obtener grandes resultados.",
+      "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_793201-MLU74074058468_012024-O.webp",
+      "categoryId": "celulares",
+      "stock": 15,
+      "price": 299.999
+    },
+    {
+      "id": 2,
+      "title": "Xiaomi Redmi 10c Dual Sim 128gb 4gb Ram Ocean Blue",
+      "description": "Doble cámara y más detalles. Cuenta con una cámara frontal de 5 Mpx y dos cámaras traseras de 50 Mpx/2 Mpx. Con su modo retrato, flash LED y autoenfoque, podrás capturar fotos y videos de alta calidad en cualquier situación",
+      "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_649323-MLU70029610391_062023-O.webp",
+      "categoryId": "celulares",
+      "stock": 5,
+      "price": 239.999
+    },
+    {
+      "id": 3,
+      "title": "Samsung Galaxy A14 128gb 4gb Ram",
+      "description": "Descubrí infinitas posibilidades para tus fotos con las 3 cámaras principales de tu equipo. Poné a prueba tu creatividad y jugá con la iluminación, diferentes planos y efectos para obtener grandes resultados. Además, el dispositivo cuenta con cámara frontal de 13 Mpx para que puedas sacarte divertidas selfies o hacer videollamadas.",
+      "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_979497-MLA72161484047_102023-O.webp",
+      "categoryId": "celulares",
+      "stock": 3,
+      "price": 349.999
+    },
+    {
+      "id": 4,
+      "title": "Tablet 7 Pulgadas Pegasus Octacore 4gb 64gb",
+      "description": "Tablet 7 Pulgadas Pegasus Octacore 4gb 64gb Android Wifi Color Blanco",
+      "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_908430-MLU74022982830_012024-O.webp",
+      "categoryId": "tablets",
+      "stock": 4,
+      "price": 139.999
+    },
+    {
+      "id": 5,
+      "title": "Tablet Netmak NM-Xplorer 10 64GB color gris y 4GB",
+      "description": "Quad JBL speakers, Qualcomm codec WCD9385, 2W x2 (on the top), 2.5W x2 (on the bottom) with 5cc audio chamber, Lenovo Premium Audio Solution design, optimized with Dolby Atmos",
+      "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_941829-MLA75858728064_042024-O.webp",
+      "categoryId": "tablets",
+      "stock": 5,
+      "price": 239.999
+    },
+    {
+      "id": 6,
+      "title": "Tablet 8 Enova Tae08n11 32gb 2gb Android 12",
+      "description": "Descubrí infinitas posibilidades para tus fotos con las 3 cámaras principales de tu equipo. Poné a prueba tu creatividad y jugá con la iluminación, diferentes planos y efectos para obtener grandes resultados. Además, el dispositivo cuenta con cámara frontal de 13 Mpx para que puedas sacarte divertidas selfies o hacer videollamadas.",
+      "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_707929-MLU75756520240_042024-O.webp",
+      "categoryId": "tablets",
+      "stock": 8,
+      "price": 99.999
+    },
+    {
+      "id": 7,
+      "title": "Notebook Hp 14-dq0535la Celeron N4120 8gb 256gb",
+      "description": "Notebook Cx Intel Core I3 15,6 8gb 240gb ",
+      "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_804687-MLA77491238324_072024-O.webp",
+      "categoryId": "notebooks",
+      "stock": 23,
+      "price": 569.999
+    },
+    {
+      "id": 8,
+      "title": "Notebook Cx Intel Core I3 15,6 8gb 240gb ",
+      "description": "Notebook Cx Intel Core I3 15,6 8gb 240gb ",
+      "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_706651-MLA53854183377_022023-O.webp",
+      "categoryId": "notebooks",
+      "stock": 12,
+      "price": 239.999
+    },
+    {
+      "id": 9,
+      "title": "Notebook Lenovo V14 Ryzen 3 3250u Ram 8gb",
+      "description": "Notebook Asus X515 Core I3 1115g4 8gb 256gb.",
+      "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_672184-MLU69343142206_052023-O.webp",
+      "categoryId": "notebooks",
+      "stock": 3,
+      "price": 759.999
+    }
+  ]

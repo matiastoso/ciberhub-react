@@ -1,7 +1,9 @@
+import { ShoppingCart } from "@mui/icons-material";
+
 const CartWidget = () => {
     return (
         <div>
-            <img style={ {width: 40, marginTop: 20} } src="https://www.freeiconspng.com/thumbs/cart-icon/basket-cart-icon-27.png" alt="Cart" />
+            <ShoppingCart sx={{fontSize: '2rem'}} />
             <span>1</span>
         </div>
     )
