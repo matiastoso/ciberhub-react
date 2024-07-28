@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import { Box, Card, CardActions, CardContent, Divider, Typography } from "@mui/material";
+import { Box, Card, CardActions, CardContent, CircularProgress, Divider, Typography } from "@mui/material";
 import { useParams } from "react-router-dom";
 import data from '../data/data.json'
 import ItemCount from "../ItemCount/ItemCount";
@@ -26,7 +26,9 @@ const ItemDetailContainer = () => {
     return(
         item.length == 0
         ?
-            <p style={{textAlign: 'center', marginTop: 100}}>Cargando...</p>
+        <Box  sx={{display: 'flex', mt: 6, flexDirection: 'column', alignItems: 'center'}}>
+            <CircularProgress />
+        </Box> 
         :
             <Box  sx={{display: 'flex', mt: 6, flexDirection: 'column', alignItems: 'center'}}>
                 <Typography variant="h4">Detalle del producto</Typography>
